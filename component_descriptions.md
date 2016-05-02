@@ -30,7 +30,7 @@ http://x-road.ee/misp2/packages/dists/
 **Documentation**: 
 http://x-road.ee/misp2/docs/ (ENG + EST)
 
-**Currency**: 
+**Development stage**: 
 Current, last updated 30.12.2015.
 
 **Licence**: 
@@ -59,7 +59,7 @@ http://x-road.ee/valid/
 **Documentation**: 
 User guide: http://x-road.ee/valid/X-road_WSDLvalidator_user_guide.pdf 
 
-**Currency**: 
+**Development stage**: 
 Current, last modified 22.01.2016.
 
 **Licence**: 
@@ -88,7 +88,7 @@ https://github.com/e-gov/AJ/
 **Documentation**: 
 http://e-gov.github.io/AJ/Presentation/ 
 
-**Currency**: 
+**Development stage**: 
 Still in development.
 
 **Licence**: 
@@ -120,7 +120,7 @@ http://xtee.codeplex.com/
 http://www.rik.ee/et/muud-teenused/x-tee-generaator 
 http://xtee.codeplex.com/documentation 
 
-**Currency**: 
+**Development stage**: 
 Last modified 21.04.2015.
 
 **Licence**: 
@@ -152,7 +152,7 @@ https://github.com/nortal/j-road
 **Documentation**: 
 http://j-road.googlecode.com/svn/trunk/etc/x-tee-kasutusjuhend.doc (EST), last modified in 2010.
 
-**Currency**: 
+**Development stage**: 
 Current, last updated 30.03.2016.
 
 **Licence**: 
@@ -184,7 +184,7 @@ https://github.com/educloudalliance/xroad-rest-gateway
 **Documentation**: 
 https://github.com/educloudalliance/xroad-rest-gateway/wiki 
 
-**Currency**: 
+**Development stage**: 
 Current.
 
 **Licence**: 
@@ -215,7 +215,7 @@ Unknown.
 **Documentation**: 
 Unknown.
 
-**Currency**: 
+**Development stage**: 
 In development.
 
 **Licence**: 
@@ -244,7 +244,7 @@ https://github.com/petkivim/xrd4j
 **Documentation**: 
 https://github.com/petkivim/xrd4j 
 
-**Currency**: 
+**Development stage**: 
 Current, last updated 21.03.2016.
 
 **Licence**: 
@@ -273,7 +273,7 @@ Unknown.
 **Documentation**: 
 Unknown.
 
-**Currency**: 
+**Development stage**: 
 Unknown.
 
 **Licence**: 
@@ -302,7 +302,7 @@ https://github.com/alar-saat/XRDv4WSDLConverter
 **Documentation**: 
 https://github.com/alar-saat/XRDv4WSDLConverter 
 
-**Currency**: 
+**Development stage**: 
 Current, last updated 29.03.2016.
 
 **Licence**: 
@@ -313,3 +313,4 @@ Java.
 
 **Component requirements**: 
 Java SDK 8. Supported X-road protocol versions: 2, 3, 4.
+
