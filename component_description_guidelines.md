@@ -14,9 +14,9 @@ For each new component, the following info should be filled in.
 
 **Documentation:** links to component documentation.
 
-**Currency:** how current is the component, is it abandoned, still in development or up-to-date.
+**Development stage:** how current is the component, is it abandoned, still in development or up-to-date.
 
-**Licence:** component licence.
+**Licence:** is the open-source, free to use or commercial? Link to component licence file, if available.
 
 **Technology used:** technology used to develop the component; for example Java.
 
