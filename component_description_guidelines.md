@@ -4,19 +4,19 @@ For each new component, the following info should be filled in.
 
 **Component name:** name of the component.
 
-**Component type:** one of the following - functional component (MISP2), adapters (REST-gateway), developer tool (X-road WSDL validator).
+**Component type:** one of the following - functional component (like MISP2), adapters (like REST-gateway), developer tool (like X-road WSDL validator).
 
-**Description:** short description of the component (if hosted elsewhere, the majority of info should be with the component).
+**Description:** short description of the component (couple of sentences; the majority of info should be with the component).
 
-**Developer:** who is responsible for the component development, also contact information for them.
+**Developer:** company, who is responsible for the component development; their webpage; contact information, like email.
 
-**Download location:** if component is hosted elsewhere, link where to download it.
+**Download location:** link to component location.
 
-**Documentation:** links to component documentation.
+**Documentation:** links to component documentation (can be a link to documentation folder or separate links to each document).
 
-**Development stage:** how current is the component, is it abandoned, still in development or up-to-date.
+**Development stage:** the development stage of the component: in-development, abandoned (with date last modified), up-to-date (with date last modified?).
 
-**Licence:** is the open-source, free to use or commercial? Link to component licence file, if available.
+**Licence:** is the component open-source, free to use or commercial? Link to component licence file, if available.
 
 **Technology used:** technology used to develop the component; for example Java.
 
