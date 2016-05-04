@@ -288,7 +288,7 @@ Unknown.
 ##XRDv4WSDLConverter 
 
 **Component type**: 
-Developer too.
+Developer tool.
 
 **Description**: 
 X-road WSDL Converter converts old version 2 and 3 WSDL files into version 4 WSDL.
