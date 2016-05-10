@@ -16,42 +16,50 @@
 ##X-Road Portal MISP2
 
 **Component type**: 
-Functional component.
+Adapter, functional component, developer tool.
 
 **Description**: 
-MISP2 is a universal portal application that allows organizations to execute X-Road services opened to them without having to develop their own X-road applications.
+MISP2 portal can be used for consuming X-Road services both for production environments and testing of services.
 
 **Developer**: 
-RIA.
+RIA. (Developed by AKTORS OÜ - https://www.aktors.ee/).
+
+**Contact info**
+Information System Authority Helpdesk, help@ria.ee
 
 **Download location**: 
-http://x-road.ee/misp2/packages/dists/
+http://x-road.ee/misp2/
 
 **Documentation**: 
 http://x-road.ee/misp2/docs/ (ENG + EST)
 
+Installation manual: http://x-road.ee/misp2/docs/eng/misp2_installation_manual_en.pdf
+
 **Development stage**: 
-Current, last updated 30.12.2015.
+Up-to-date, last updated 30.12.2015.
 
 **Licence**: 
 Unknown.
 
 **Technology used**: 
-Unknown.
+Java, Orbeon, PostgreSQL.
 
 **Component requirements**: 
-Ubuntu Server 10.04 Long-Term Support (LTS), 64-bit version; Java 6, PostgreSQL 8.4.
+Ubuntu Server 14.04 LTS, 64 bit; X-Road v5/v6; Java 6, PostgreSQL 8.4.
 
 ##X-Road WSDL validator
 
 **Component type**: 
-Developer tool.
+Functional component, developer tool.
 
 **Description**: 
-WSDL validator has been created in order to check the X-Road services. The plug-in programme validates and feedbacks the provided WSDLs. Based on the received feedback, the institution may improve its X-Road service descriptions.
+WSDL validator can be used by developers to validate X-Road service WSDL. Validator is also used by Security Server to validate service WSDL.
 
 **Developer**: 
-RIA. (Developed by Aktors OÜ).
+RIA. (Apache CXF Community; X-Road specific additions by Actors OÜ https://www.aktors.ee/).
+
+**Contact info**
+Information System Authority Helpdesk, help@ria.ee
 
 **Download location**: 
 http://x-road.ee/valid/
@@ -60,16 +68,16 @@ http://x-road.ee/valid/
 User guide: http://x-road.ee/valid/X-road_WSDLvalidator_user_guide.pdf 
 
 **Development stage**: 
-Current, last modified 22.01.2016.
+Up-to-date, last modified 22.01.2016.
 
 **Licence**: 
-Unknown.
+Apache.
 
 **Technology used**: 
-Unknown.
+Java, Apache CXF.
 
 **Component requirements**: 
-Linux (Debian), Windows, Java JRE 6+.
+Apache CXF 3.0.1, Linux (Debian), Windows, Java JRE 6+.
 
 ##X-Road Personal Data Monitor
 
@@ -77,28 +85,31 @@ Linux (Debian), Windows, Java JRE 6+.
 Functional component.
 
 **Description**: 
-Personal Data Monitor, **Andmejälgija** in Estonian, is a set of 4 microservice-style applications that, when combined with each other and attached to X-Road can offer the citizen the comprehensive view of how his or her personal data has been used by the government.
+Personal Data Monitor can be used to automatically log personal data transfered with X-Road messages or to log personal data usage in information systems. A person can also query his data usage log with a specific X-Road service.
 
 **Developer**: 
-RIK. (Developed by Degeetia).
+RIK. (Developed by Degeetia OÜ).
+
+**Contact info**
+Information System Authority Helpdesk, help@ria.ee
 
 **Download location**: 
-https://github.com/e-gov/AJ/ 
+https://github.com/e-gov/AJ/releases
 
 **Documentation**: 
 http://e-gov.github.io/AJ/Presentation/ 
 
 **Development stage**: 
-Still in development.
+In development.
 
 **Licence**: 
-Unknown.
+MIT.
 
 **Technology used**: 
-Unknown.
+Java.
 
 **Component requirements**: 
-Unknown.
+Any Java application server.
 
 ##X-Road Generator (X-Road .NET)
 
