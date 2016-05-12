@@ -24,7 +24,7 @@ MISP2 portal can be used for consuming X-Road services both for production envir
 **Developer**: 
 RIA. (Developed by AKTORS OÜ - https://www.aktors.ee/).
 
-**Contact info**
+**Contact info**:
 Information System Authority Helpdesk, help@ria.ee
 
 **Download location**: 
@@ -58,7 +58,7 @@ WSDL validator can be used by developers to validate X-Road service WSDL. Valida
 **Developer**: 
 RIA. (Apache CXF Community; X-Road specific additions by Actors OÜ https://www.aktors.ee/).
 
-**Contact info**
+**Contact info**:
 Information System Authority Helpdesk, help@ria.ee
 
 **Download location**: 
@@ -90,7 +90,7 @@ Personal Data Monitor can be used to automatically log personal data transfered 
 **Developer**: 
 RIK. (Developed by Degeetia OÜ).
 
-**Contact info**
+**Contact info**:
 Information System Authority Helpdesk, help@ria.ee
 
 **Download location**: 
