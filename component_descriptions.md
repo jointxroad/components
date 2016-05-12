@@ -88,7 +88,7 @@ Functional component.
 Personal Data Monitor can be used to automatically log personal data transfered with X-Road messages or to log personal data usage in information systems. A person can also query his data usage log with a specific X-Road service.
 
 **Developer**: 
-RIK. (Developed by Degeetia OÜ).
+RIA. (Developed by Degeetia OÜ).
 
 **Contact info**:
 Information System Authority Helpdesk, help@ria.ee
