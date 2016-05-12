@@ -7,7 +7,6 @@
 * [X-Road Generator (X-tee .NET)](#x-road-generator-x-road-net)
 * [J-road](#j-road)
 * [REST-Gateway](#rest-gateway)
-* [Publish-Subscribe](#publish-subscribe)
 * [XRd4J](#xrd4j)
 * [SAP PI X-Road Adapter](#sap-pi-x-road-adapter)
 * [XRDv4WSDLConverter](#xrdv4wsdlconverter)
@@ -208,35 +207,6 @@ Java.
 **Component requirements**: 
 Software requirements: Java 6 or later, Tomcat 6 or later. The component implements X-Road v4.0 SOAP profile and it's compatible with X-Road v6.4 and above.
 See also: https://github.com/educloudalliance/xroad-rest-gateway/wiki/Requirements
-
-##Publish-Subscribe
-
-**Component type**: 
-Developer tool/adapter?
-
-**Description**: 
-TODO.
-
-**Developer**: 
-Elering.
-
-**Download location**: 
-Unknown.
-
-**Documentation**: 
-Unknown.
-
-**Development stage**: 
-In development.
-
-**Licence**: 
-Unknown.
-
-**Technology used**: 
-Unknown.
-
-**Component requirements**: 
-Unknown.
 
 ##XRd4J
 
