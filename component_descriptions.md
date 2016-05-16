@@ -163,7 +163,7 @@ https://github.com/nortal/j-road
 http://j-road.googlecode.com/svn/trunk/etc/x-tee-kasutusjuhend.doc (EST), last modified in 2010.
 
 **Development stage**: 
-Current, last updated 30.03.2016.
+Up-to-date, last updated 30.03.2016.
 
 **Licence**: 
 GNU LESSER GENERAL PUBLIC LICENSE.
@@ -195,7 +195,7 @@ https://github.com/educloudalliance/xroad-rest-gateway
 https://github.com/educloudalliance/xroad-rest-gateway/wiki 
 
 **Development stage**: 
-Current.
+Up-to-date.
 
 **Licence**: 
 European Union Public Licence V. 1.1
@@ -226,7 +226,7 @@ https://github.com/petkivim/xrd4j
 https://github.com/petkivim/xrd4j 
 
 **Development stage**: 
-Current, last updated 21.03.2016.
+Up-to-date, last updated 21.03.2016.
 
 **Licence**: 
 The MIT License (MIT). https://github.com/petkivim/xrd4j/blob/master/LICENSE 
