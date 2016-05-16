@@ -277,6 +277,9 @@ X-road WSDL Converter converts old version 2 and 3 WSDL files into version 4 WSD
 **Developer**: 
 RMIT
 
+**Contact info**:
+Alar Saat, alar.saat@rmit.ee
+
 **Download location**: 
 https://github.com/alar-saat/XRDv4WSDLConverter 
 
@@ -284,7 +287,7 @@ https://github.com/alar-saat/XRDv4WSDLConverter
 https://github.com/alar-saat/XRDv4WSDLConverter 
 
 **Development stage**: 
-Current, last updated 29.03.2016.
+Up-to-date, last updated 30.03.2016.
 
 **Licence**: 
 https://github.com/alar-saat/XRDv4WSDLConverter/blob/master/LICENSE.md 
