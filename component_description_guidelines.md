@@ -8,7 +8,9 @@ For each new component, the following info should be filled in.
 
 **Description:** short description of the component (couple of sentences; the majority of info should be with the component).
 
-**Developer:** company, who is responsible for the component development; their webpage; contact information, like email.
+**Owner (Developer):** Company who owns the component. If the actual developer is another company, please write their name also.
+
+**Owner contact info:** General contact info for questions about the component - for example contact person name, phone, website, email
 
 **Download location:** link to component location.
 
