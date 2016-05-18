@@ -121,7 +121,10 @@ X-Road generator created by the Centre of Registers and Information Systems is m
 X-Road generator allows to generate a list of data objects used on the basis of a list of services (wsdl) offered by any information system providing X-Road services of the public or private sector, thus making the use of those services notably easier as the developer does not have to try to make sense of the list of services and all the information needed in his work is in a readily usable form.
 
 **Developer**: 
-RIK.
+Centre of Registers and Information Systems.
+
+**Contact info**:
++372 680 3160, rik.info@just.ee.
 
 **Download location**: 
 http://xtee.codeplex.com/ 
@@ -131,7 +134,7 @@ http://www.rik.ee/et/muud-teenused/x-tee-generaator
 http://xtee.codeplex.com/documentation 
 
 **Development stage**: 
-Last modified 21.04.2015.
+Up-to-date, last modified 21.04.2015.
 
 **Licence**: 
 Apache License 2.0
@@ -181,21 +184,21 @@ X-road version 4 support.
 Adapter.
 
 **Description**: 
-REST Gateway is a component that sits between X-Road security server and a REST service. It translates SOAP messages to REST service requests and vice versa.  It includes the following features:
-* Provider Gateway - access REST services (JSON, XML) via WSDL defined X-Road services,
-* Consumer Gateway - access WSDL defined X-Road services in a RESTful manner.
+REST Gateway is a component that sits between X-Road Security Server and a REST service. REST Gateway implements X-Road v4.0 SOAP profile and it's compatible with X-Road v6.4 and above. The component makes the integration of REST services to X-Road fast and easy automating REST-SOAP and SOAP-REST conversions.
 
 **Developer**: 
-VRK
+Petteri Kivimäki
+
+**Contact info**:petteri.kivimaki@vrk.fi
 
 **Download location**: 
-https://github.com/educloudalliance/xroad-rest-gateway 
+https://github.com/educloudalliance/xroad-rest-gateway/releases
 
 **Documentation**: 
 https://github.com/educloudalliance/xroad-rest-gateway/wiki 
 
 **Development stage**: 
-Up-to-date.
+Up-to-date, last updated 30.04.2016.
 
 **Licence**: 
 European Union Public Licence V. 1.1
@@ -205,28 +208,38 @@ https://github.com/educloudalliance/xroad-rest-gateway/blob/master/LICENSE
 Java.
 
 **Component requirements**: 
-Software requirements: Java 6 or later, Tomcat 6 or later. The component implements X-Road v4.0 SOAP profile and it's compatible with X-Road v6.4 and above.
+The component can be run on Linux / Windows as a standalone JAR (Java 7 or later), Tomcat (Tomcat 7 or later) web app or Docker container. The component is compatible with X-Road v6.4 and later.
 See also: https://github.com/educloudalliance/xroad-rest-gateway/wiki/Requirements
 
 ##XRd4J
 
 **Component type**: 
-Adapter?
+Developer tool.
 
 **Description**: 
 XRd4J is a Java library for building X-Road v6 Adapter Servers and clients. The library implements X-Road v6 SOAP profile v4.0 and Service Metadata Protocol. The library takes care of serialization and deserialization of SOAP messages: built-in support for standard X-Road SOAP headers, only processing of application specific request and response elements must be implemented.
 
+Modules:
+
+- client : SOAP client that generates X-Road v6 SOAP messages that can be sent to X-Road Security Server. Includes request serializer and response deserializer.
+- server : Provides abstract servlet that can be use as a base class for Adapter Server implementation. Includes request deserializer and response serializer.
+- common : General purpose utilities for processing SOAP messages and X-Road v6 message data models.
+- rest : HTTP clients that can be used for sending requests to web services from Adapter Server.
+
 **Developer**: 
-Finnish X-Road Community
+Petteri Kivimäki
+
+**Contact info**:
+petteri.kivimaki@vrk.fi
 
 **Download location**: 
-https://github.com/petkivim/xrd4j
+https://github.com/petkivim/xrd4j/releases
 
 **Documentation**: 
 https://github.com/petkivim/xrd4j 
 
 **Development stage**: 
-Up-to-date, last updated 21.03.2016.
+Up-to-date, last updated April 2016.
 
 **Licence**: 
 The MIT License (MIT). https://github.com/petkivim/xrd4j/blob/master/LICENSE 
@@ -235,7 +248,7 @@ The MIT License (MIT). https://github.com/petkivim/xrd4j/blob/master/LICENSE
 Java.
 
 **Component requirements**: 
-X-road version 6, protocol version 4.0.
+Java 7 or later.
 
 ##SAP PI X-Road Adapter
 
