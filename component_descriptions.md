@@ -70,7 +70,7 @@ http://x-road.ee/valid/
 User guide: http://x-road.ee/valid/X-road_WSDLvalidator_user_guide.pdf 
 
 **Development stage**: 
-Up-to-date, last modified 22.01.2016.
+Up-to-date, last updated 22.01.2016.
 
 **Licence**: 
 Apache.
@@ -137,7 +137,7 @@ http://www.rik.ee/et/muud-teenused/x-tee-generaator
 http://xtee.codeplex.com/documentation 
 
 **Development stage**: 
-Up-to-date, last modified 21.04.2015.
+Up-to-date, last updated 21.04.2015 (v2).
 
 **Licence**: 
 Apache License 2.0
@@ -147,7 +147,7 @@ http://xtee.codeplex.com/license
 .NET.
 
 **Component requirements**: 
-Unknown.
+V2.0 supports x-Road version 5 and down, V3.0 x-Road version 6 (olders are not supported). V3 is in development, v2 is up-to-date.
 
 ##J-road
 
@@ -166,7 +166,7 @@ Nortal.
 https://github.com/nortal/j-road
 
 **Documentation**: 
-http://j-road.googlecode.com/svn/trunk/etc/x-tee-kasutusjuhend.doc (EST), last modified in 2010.
+http://j-road.googlecode.com/svn/trunk/etc/x-tee-kasutusjuhend.doc (EST), last updated in 2010.
 
 **Development stage**: 
 Up-to-date, last updated 30.03.2016.
