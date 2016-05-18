@@ -10,6 +10,9 @@
 * [XRd4J](#xrd4j)
 * [SAP PI X-Road Adapter](#sap-pi-x-road-adapter)
 * [XRDv4WSDLConverter](#xrdv4wsdlconverter)
+* [X-Road Adapter Example] (#x-road-adapter-example)
+* [X-Road Test Service] (#x-road-test-service)
+* [X-Road Test Client] (#x-road-test-client)
 
 
 ##X-Road Portal MISP2
@@ -189,7 +192,8 @@ REST Gateway is a component that sits between X-Road Security Server and a REST 
 **Developer**: 
 Petteri Kivimäki
 
-**Contact info**:petteri.kivimaki@vrk.fi
+**Contact info**:
+Petteri Kivimäki, petteri.kivimaki@vrk.fi
 
 **Download location**: 
 https://github.com/educloudalliance/xroad-rest-gateway/releases
@@ -230,7 +234,7 @@ Modules:
 Petteri Kivimäki
 
 **Contact info**:
-petteri.kivimaki@vrk.fi
+Petteri Kivimäki, petteri.kivimaki@vrk.fi
 
 **Download location**: 
 https://github.com/petkivim/xrd4j/releases
@@ -311,3 +315,106 @@ Java.
 **Component requirements**: 
 Java SDK 8. Supported X-road protocol versions: 2, 3, 4.
 
+##X-Road Adapter Example
+
+**Component type**: 
+Adapter.
+
+**Description**: 
+X-Road Adapter Example provides an example implementation of a web service that's compatible with X-Road version 6.4 and later. The implementation is based on XRd4J library. The service contains a single class that implements two services:
+
+- getRandom : returns a random number between 1-100
+- helloService : returns a hello message with the given name
+
+**Developer**: 
+Petteri Kivimäki
+
+**Contact info**:
+Petteri Kivimäki, petteri.kivimaki@vrk.fi
+
+**Download location**: 
+https://github.com/petkivim/x-road-adapter-example/releases
+
+**Documentation**: 
+https://github.com/petkivim/x-road-adapter-example
+
+**Development stage**: 
+Up-to-date, last updated 30.04.2016.
+
+**Licence**: 
+MIT
+https://github.com/petkivim/x-road-adapter-example/blob/master/LICENSE
+
+**Technology used**: 
+Java.
+
+**Component requirements**: 
+The component can be run on Linux / Windows as a standalone JAR (Java 7 or later), Tomcat (Tomcat 7 or later) web app or Docker container. The component is compatible with X-Road v6.4 and later.
+
+##X-Road Test Service
+
+**Component type**: 
+Functional component.
+
+**Description**: 
+X-Road Test Service is a testing tool for X-Road v6.4 and above. The implementation is based on XRd4J library. Test Service application provides a single service that takes as parameters the size of the response body and the size of the response attachment part. The size defines the number of characters in the response.
+
+**Developer**: 
+Petteri Kivimäki
+
+**Contact info**:
+Petteri Kivimäki, petteri.kivimaki@vrk.fi
+
+**Download location**: 
+https://github.com/petkivim/x-road-test-service/releases
+
+**Documentation**: 
+https://github.com/petkivim/x-road-test-service
+
+**Development stage**: 
+Up-to-date, last updated April 2016.
+
+**Licence**: 
+MIT
+https://github.com/petkivim/x-road-test-service/blob/master/LICENSE
+
+**Technology used**: 
+Java.
+
+**Component requirements**: 
+The component can be run on Linux / Windows as a standalone JAR (Java 7 or later), Tomcat (Tomcat 7 or later) web app or Docker container. The component is compatible with X-Road v6.4 and later.
+
+##X-Road Test Client
+
+**Component type**: 
+Functional component.
+
+**Description**: 
+X-Road Test Client is a testing tool and load generator for X-Road v6.4 and above. The implementation is based on XRd4J library.
+
+By default Test Client calls testService service of X-Road Test Service project according to given parameters that include: message body size, message attachment size, response body size, response attachment size, number of client threads, interval between messages, number of messages to be sent per client and maximum run time per client. A random String is used as a payload and the same String is used in all the requests in a single execution. However, unique message ID is automatically generated for each request.
+
+**Developer**: 
+Petteri Kivimäki
+
+**Contact info**:
+Petteri Kivimäki, petteri.kivimaki@vrk.fi
+
+**Download location**: 
+https://github.com/petkivim/x-road-test-client/releases
+
+**Documentation**: 
+https://github.com/petkivim/x-road-test-client
+
+**Development stage**: 
+Up-to-date, last updated December 2015.
+
+**Licence**: 
+MIT
+https://github.com/petkivim/x-road-test-client/blob/master/LICENSE
+
+**Technology used**: 
+Java.
+
+**Component requirements**: 
+The component can be run on Linux / Windows as a standalone JAR (Java 7 or later). The component is compatible with X-Road v6.4 and later.
