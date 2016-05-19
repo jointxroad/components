@@ -133,7 +133,8 @@ Centre of Registers and Information Systems.
 http://xtee.codeplex.com/ 
 
 **Documentation**: 
-http://www.rik.ee/et/muud-teenused/x-tee-generaator 
+http://www.rik.ee/et/muud-teenused/x-tee-generaator
+
 http://xtee.codeplex.com/documentation 
 
 **Development stage**: 
@@ -152,34 +153,34 @@ V2.0 supports x-Road version 5 and down, V3.0 x-Road version 6 (olders are not s
 ##J-road
 
 **Component type**: 
-Developer tool; also adapter?
+Developer tool.
 
 **Description**: 
-J-road is a Java library which simplifies the consumption and creation of Estonian X-road services through code generation and protocol implementation.
-The library was initially created for internal use in Webmedia Group AS (now known as Nortal AS), where it is used in all projects requiring X-road functionality.
-It consists of two parts: the client, which is used for consuming services from databases created by others and the server, which allows you to create your own databases.
+Java library which simplifies the consumption and creation of Estonian X-road services through code generation and protocol implementation.
 
 **Developer**: 
 Nortal.
+
+**Contact info**:
+Priit Liivak, Priit.Liivak@nortal.com
 
 **Download location**: 
 https://github.com/nortal/j-road
 
 **Documentation**: 
-http://j-road.googlecode.com/svn/trunk/etc/x-tee-kasutusjuhend.doc (EST), last updated in 2010.
+https://github.com/nortal/j-road
 
 **Development stage**: 
-Up-to-date, last updated 30.03.2016.
+Up-to-date, last updated 20.04.2016.
 
 **Licence**: 
-GNU LESSER GENERAL PUBLIC LICENSE.
-https://github.com/nortal/j-road/blob/master/etc/License.txt 
+Apache License 2.0.
 
 **Technology used**: 
 Java.
 
 **Component requirements**: 
-X-road version 4 support.
+Spring Framework.
 
 ##REST-Gateway
 
