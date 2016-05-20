@@ -13,6 +13,7 @@
 * [X-Road Adapter Example] (#x-road-adapter-example)
 * [X-Road Test Service] (#x-road-test-service)
 * [X-Road Test Client] (#x-road-test-client)
+* [Qure Data Management Platform] (#qure-data-management-platform)
 
 
 ##X-Road Portal MISP2
@@ -419,3 +420,25 @@ Java.
 
 **Component requirements**: 
 The component can be run on Linux / Windows as a standalone JAR (Java 7 or later). The component is compatible with X-Road v6.4 and later.
+
+##Qure Data Management Platform
+
+**Component type:** Functional component.
+
+**Description:** Qure Data Management Platform is a web-based database software for collection, handling, and analysis of data under high quality, security, and robustness requirements. The platform is well suitable for rapid building of registries, biobanks, clinical trials, data management systems, statistical surveys, and other web-based database applications. It has built-in X-Road consumer support, with user interface assisted X-Road security server connection setup. The X-Road queries can be defined and run directly from server side JavaScript. 
+
+**Developer:** Quretec, http://www.quretec.com/#qureplatform
+
+**Contact info:** Margus Jäger, quretec@quretec.com
+
+**Download location:** NA.
+
+**Documentation:** NA.
+
+**Development stage:** In development. 
+
+**Licence:** Commercial.
+
+**Technology used:** Java, JavaScript.
+
+**Component requirements:** WildFly 10, PostgreSQL 9.5+, Linux, Java 8. X-Road version 5 supported, version 6 support is in development.
