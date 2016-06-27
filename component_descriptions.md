@@ -262,28 +262,31 @@ Java 7 or later.
 Adapter.
 
 **Description**: 
-X-Road adapter for Estonian Health Insurance Fund SAP PI.
+A simple software component for converting X-road SOAP requests between X-road security server and SAP XI/PI integration platform.
 
 **Developer**: 
-Intelsys?
+Eesti Haigekassa (developed by Intelsys OÜ).
+
+**Contact info**:
+Eesti Haigekassa helpdesk, info@haigekassa.ee
 
 **Download location**: 
-Unknown.
+Available on request.
 
 **Documentation**: 
-Unknown.
+Available on request.
 
 **Development stage**: 
-Unknown.
+In development
 
 **Licence**: 
-Unknown.
+Open Source (EUPL).
 
 **Technology used**: 
-Unknown.
+Java.
 
 **Component requirements**: 
-Unknown.
+Requires Java v1.6 or later, SAP XI/PI (all versions supported). PI database connection is also required (JDBC). Only X-Road v6 SOAP header elements are supported.
 
 ##XRDv4WSDLConverter 
 
