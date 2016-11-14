@@ -1,3 +1,5 @@
+![EU Regional Development Fund Logo](/img/EU_Regional_Development_Fund_horizontal_small.jpg "EU Regional Development Fund Logo")
+
 # X-Road reusable components
 
 This repository is meant as a central place for listing X-Road reusable components.
