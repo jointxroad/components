@@ -1,3 +1,5 @@
+![EU Regional Development Fund Logo](/img/EU_Regional_Development_Fund_horizontal_small.jpg "EU Regional Development Fund Logo")
+
 # X-road Reusable Component Description Guidelines
 
 For each new component, the following info should be filled in.
