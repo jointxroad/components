@@ -102,7 +102,7 @@ Information System Authority Helpdesk, help@ria.ee
 https://github.com/e-gov/AJ/releases
 
 **Documentation**: 
-http://e-gov.github.io/AJ/Presentation/ 
+https://github.com/e-gov/AJ/blob/master/README.md
 
 **Development stage**: 
 In development.
