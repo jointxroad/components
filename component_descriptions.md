@@ -12,10 +12,10 @@
 * [XRd4J](#xrd4j)
 * [SAP PI X-Road Adapter](#sap-pi-x-road-adapter)
 * [XRDv4WSDLConverter](#xrdv4wsdlconverter)
-* [X-Road Adapter Example] (#x-road-adapter-example)
-* [X-Road Test Service] (#x-road-test-service)
-* [X-Road Test Client] (#x-road-test-client)
-* [Qure Data Management Platform] (#qure-data-management-platform)
+* [X-Road Adapter Example](#x-road-adapter-example)
+* [X-Road Test Service](#x-road-test-service)
+* [X-Road Test Client](#x-road-test-client)
+* [Qure Data Management Platform](#qure-data-management-platform)
 
 
 ## X-Road Portal MISP2
