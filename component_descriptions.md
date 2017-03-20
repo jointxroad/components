@@ -18,7 +18,7 @@
 * [Qure Data Management Platform] (#qure-data-management-platform)
 
 
-##X-Road Portal MISP2
+## X-Road Portal MISP2
 
 **Component type**: 
 Adapter, functional component, developer tool.
@@ -52,7 +52,7 @@ Java, Orbeon, PostgreSQL.
 **Component requirements**: 
 Ubuntu Server 14.04 LTS, 64 bit; X-Road v5/v6; Java 6, PostgreSQL 8.4.
 
-##X-Road WSDL validator
+## X-Road WSDL validator
 
 **Component type**: 
 Functional component, developer tool.
@@ -84,7 +84,7 @@ Java, Apache CXF.
 **Component requirements**: 
 Apache CXF 3.0.1, Linux (Debian), Windows, Java JRE 6+.
 
-##X-Road Personal Data Monitor
+## X-Road Personal Data Monitor
 
 **Component type**: 
 Functional component.
@@ -116,7 +116,7 @@ Java.
 **Component requirements**: 
 Any Java application server.
 
-##X-Road Generator (X-Road .NET)
+## X-Road Generator (X-Road .NET)
 
 **Component type**: 
 Developer tool.
@@ -153,7 +153,7 @@ http://xtee.codeplex.com/license
 **Component requirements**: 
 V2.0 supports x-Road version 5 and down, V3.0 x-Road version 6 (olders are not supported). V3 is in development, v2 is up-to-date.
 
-##J-road
+## J-road
 
 **Component type**: 
 Developer tool.
@@ -185,7 +185,7 @@ Java.
 **Component requirements**: 
 Spring Framework.
 
-##REST-Gateway
+## REST-Gateway
 
 **Component type**: 
 Adapter.
@@ -219,7 +219,7 @@ Java.
 The component can be run on Linux / Windows as a standalone JAR (Java 7 or later), Tomcat (Tomcat 7 or later) web app or Docker container. The component is compatible with X-Road v6.4 and later.
 See also: https://github.com/educloudalliance/xroad-rest-gateway/wiki/Requirements
 
-##XRd4J
+## XRd4J
 
 **Component type**: 
 Developer tool.
@@ -258,7 +258,7 @@ Java.
 **Component requirements**: 
 Java 7 or later.
 
-##SAP PI X-Road Adapter
+## SAP PI X-Road Adapter
 
 **Component type**: 
 Adapter.
@@ -290,7 +290,7 @@ Java.
 **Component requirements**: 
 Requires Java v1.6 or later, SAP XI/PI (all versions supported). PI database connection is also required (JDBC). Only X-Road v6 SOAP header elements are supported.
 
-##XRDv4WSDLConverter 
+## XRDv4WSDLConverter 
 
 **Component type**: 
 Developer tool.
@@ -322,7 +322,7 @@ Java.
 **Component requirements**: 
 Java SDK 8. Supported X-road protocol versions: 2, 3, 4.
 
-##X-Road Adapter Example
+## X-Road Adapter Example
 
 **Component type**: 
 Adapter.
@@ -358,7 +358,7 @@ Java.
 **Component requirements**: 
 The component can be run on Linux / Windows as a standalone JAR (Java 7 or later), Tomcat (Tomcat 7 or later) web app or Docker container. The component is compatible with X-Road v6.4 and later.
 
-##X-Road Test Service
+## X-Road Test Service
 
 **Component type**: 
 Functional component.
@@ -391,7 +391,7 @@ Java.
 **Component requirements**: 
 The component can be run on Linux / Windows as a standalone JAR (Java 7 or later), Tomcat (Tomcat 7 or later) web app or Docker container. The component is compatible with X-Road v6.4 and later.
 
-##X-Road Test Client
+## X-Road Test Client
 
 **Component type**: 
 Functional component.
@@ -426,7 +426,7 @@ Java.
 **Component requirements**: 
 The component can be run on Linux / Windows as a standalone JAR (Java 7 or later). The component is compatible with X-Road v6.4 and later.
 
-##Qure Data Management Platform
+## Qure Data Management Platform
 
 **Component type:** Functional component.
 
