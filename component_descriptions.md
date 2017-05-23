@@ -16,7 +16,7 @@
 * [X-Road Test Service](#x-road-test-service)
 * [X-Road Test Client](#x-road-test-client)
 * [Qure Data Management Platform](#qure-data-management-platform)
-
+* [X-Road v6 global configuration parser](#x-road-v6-global-configuration-parser)
 
 ## X-Road Portal MISP2
 
@@ -447,3 +447,25 @@ The component can be run on Linux / Windows as a standalone JAR (Java 7 or later
 **Technology used:** Java, JavaScript.
 
 **Component requirements:** WildFly 10, PostgreSQL 9.5+, Linux, Java 8. X-Road version 5 supported, version 6 support is in development.
+
+## X-Road v6 global configuration parser
+
+**Component type:** Functional component.
+
+**Description:** This is small PHP snippet to parse X-road v6 globalconfig for retrieving information of subsystem security server.
+
+**Developer:** Marko Valing
+
+**Contact info:** https://github.com/tuudik/xroad6parser
+
+**Download location:** https://github.com/tuudik/xroad6parser
+
+**Documentation:** https://github.com/tuudik/xroad6parser
+
+**Development stage:** In development. 
+
+**Licence:** GPL-3.0.
+
+**Technology used:** PHP, JavaScript.
+
+**Component requirements:** Webserver with PHP support.
