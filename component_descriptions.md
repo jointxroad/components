@@ -33,15 +33,15 @@ RIA. (Developed by AKTORS OÜ - https://www.aktors.ee/).
 Information System Authority Helpdesk, help@ria.ee
 
 **Download location**: 
-http://x-road.ee/misp2/
+https://x-tee.ee/packages/live/misp2/
 
 **Documentation**: 
-http://x-road.ee/misp2/docs/ (ENG + EST)
+https://x-tee.ee/docs/live/misp2/ (ENG + EST)
 
-Installation manual: http://x-road.ee/misp2/docs/eng/misp2_installation_manual_en.pdf
+Installation manual: https://x-tee.ee/docs/live/misp2/eng/MISP2_installation_manual_16.04.pdf
 
 **Development stage**: 
-Up-to-date, last updated 30.12.2015.
+Up-to-date, last updated 12.03.2018.
 
 **Licence**: 
 Unknown.
